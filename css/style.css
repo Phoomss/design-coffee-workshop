@@ -465,6 +465,9 @@ img{
 .about-buttons{
   column-gap: 2rem;
 }
+.about-buttons a{
+  color: var(--text-color);
+}
 .about-link .link-text,
 .about-arrowIcon{
   color: var(--text-color);
